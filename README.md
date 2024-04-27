@@ -47,8 +47,10 @@ The training loop implements the adversarial training process:
 
 This process is repeated for a specified number of epochs, and generated images are saved every 10 epochs to visualize the generator's progress.
 
-## Usage
+## Note
 
-To run the code, simply execute the Python script. The MNIST dataset will be automatically downloaded and used for training. The generated images will be saved as PNG files every 10 epochs, and the training progress will be printed to the console.
+Implementation: To run the code, simply execute the Python script. The MNIST dataset will be automatically downloaded and used for training. The generated images will be saved as PNG files every 10 epochs, and the training progress will be printed to the console.
 
-Note: This implementation assumes the availability of a GPU for efficient training. If no GPU is available, the code will fallback to CPU training, which may be significantly slower.
+Important: This implementation assumes the availability of a GPU for efficient training. If no GPU is available, the code will fallback to CPU training, which may be significantly slower.
+
+Disclaimer: This repository is intended for educational and research purposes.
