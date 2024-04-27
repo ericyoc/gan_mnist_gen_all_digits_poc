@@ -3,9 +3,7 @@
 This code implements a Generative Adversarial Network (GAN) to generate handwritten digit images similar to the MNIST dataset. GANs are a type of deep learning model composed of two neural networks, a generator and a discriminator, that are trained in an adversarial manner.
 
 ## Motivating Article
-M. Megahed and A. Mohammed, "Multi-GANs with Shared Generator: An Approach for Handling Mode Collapse Issue," 2024 6th International Conference on Computing and Informatics (ICCI), New Cairo - Cairo, Egypt, 2024, pp. 483-489, doi: 10.1109/ICCI61671.2024.10485012.
-
-https://ieeexplore.ieee.org/abstract/document/10485012
+Rather, I.H., Kumar, S. Generative adversarial network based synthetic data training model for lightweight convolutional neural networks. Multimed Tools Appl 83, 6249–6271 (2024). https://doi.org/10.1007/s11042-023-15747-6
 
 
 ## What are GANs?
