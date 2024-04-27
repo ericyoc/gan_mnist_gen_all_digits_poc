@@ -15,7 +15,10 @@ Generative Adversarial Networks (GANs) are a powerful class of machine learning 
 
 The generator and discriminator are trained simultaneously in an adversarial game. The generator tries to generate data that can fool the discriminator, while the discriminator tries to correctly classify data as real or generated. This adversarial training process drives both the generator and discriminator to improve their performance iteratively.
 
-## Implementation Details
+## Results
+[!GAN Results](https://github.com/ericyoc/gan_mnist_gen_all_digits/blob/main/results.jpg)
+
+## Python Code Details
 
 ### Generator
 
